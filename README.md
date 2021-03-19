@@ -1,13 +1,13 @@
 ### Hi there 👋 My name is Artyom and I am from Russia (🇷🇺)
 
 ## I'm a
-## 1️⃣9️⃣ y.o.
+## 1️⃣9️⃣ y.o. (Right now I'm twenty)
 ## ⚽ football player
 ## 💻 programmer
 ## 🌝 and just a funny man
 
-- 🌐 I’m currently working on my website
-- 🚀 I’m currently learning Apollo with GQL and all that stuff
+- 🌐 I’m currently working on my website (Now Im workin on mobile app)
+- 🚀 I’m currently learning Apollo with GQL and all that stuff (Now Im learnin React-Native)
 - 🔋  I'm 100% ready for work
 - 💬 Ask me about anything
 - 😄 Fun fact: My first programming language was C++
