@@ -39,11 +39,14 @@
   <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </p>
 
+<br />
+
 ---
 
 <br />
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=7evenUp&theme=react&show_icons=true" width="410"/>
+<br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7evenUp&layout=compact&theme=react" width="400" />
 </p>
 
