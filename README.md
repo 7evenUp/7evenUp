@@ -1,4 +1,11 @@
-### Hi there 👋 My name is Artyom and I am from Russia (🇷🇺)
+<p>
+  <h1 align="center">Hi there, I'm Artyom and I'm from Russia (RU) 👋</h1>
+</p>
+<p align="center">
+  <a href="https://vk.com/aptem_oxa"><img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=vk" alt="Vkontakte" /></a>
+  <a href="https://www.instagram.com/7_even_up/"><img src="https://img.shields.io/badge/Инстаграм-white?style=for-the-badge&logo=instagram" alt="Instagram" /></a>
+  <a href="https://t.me/x7evenUpx"><img src="https://img.shields.io/badge/Телеграм-black?style=for-the-badge&logo=telegram" alt="Telegram" /></a>
+</p>
 
 ## I'm a
 ## 2️⃣1️⃣ y.o.
@@ -11,10 +18,6 @@
 - 🔋  I'm 100% ready for work
 - 💬 Ask me about anything
 - 😄 Fun fact: My first programming language was C++
-
-### Connect with me
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg"/>][vk]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 
 <br />
 
