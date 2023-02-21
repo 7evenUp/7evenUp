@@ -35,7 +35,7 @@
 </p>
 <br />
 <br />
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=7evenUp&theme=github_dark)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=7evenUp&theme=github_dark" width="400" />
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=7evenUp&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=7evenUp&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=7evenUp&theme=github_dark&utcOffset=8
