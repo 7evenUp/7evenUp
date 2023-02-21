@@ -28,13 +28,13 @@
 
 <br />
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=7evenUp&theme=github_dark" width="500" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=7evenUp&theme=github_dark" width="600" />
   <br />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=7evenUp&theme=github_dark" width="400" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=7evenUp&theme=github_dark" width="350" />
   <br />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=7evenUp&theme=github_dark" width="400" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=7evenUp&theme=github_dark" width="350" />
   <br />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=7evenUp&theme=github_dark&utcOffset=8" width="400" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=7evenUp&theme=github_dark&utcOffset=8" width="350" />
   <br />
 </p>
 
