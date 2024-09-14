@@ -1,6 +1,4 @@
 <p align="center">
-  <a href="https://vk.com/aptem_oxa"><img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk" alt="Vkontakte" /></a>
-  <a href="https://www.instagram.com/7_even_up/"><img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram" alt="Instagram" /></a>
   <a href="https://t.me/x7evenUpx"><img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram" alt="Telegram" /></a>
 </p>
 
