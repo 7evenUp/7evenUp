@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://t.me/x7evenUpx"><img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram" alt="Telegram" /></a>
+  <a href="https://t.me/shel_heliks"><img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram" alt="Telegram" /></a>
 </p>
 
 <p>
